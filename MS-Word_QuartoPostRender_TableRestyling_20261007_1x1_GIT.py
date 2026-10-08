@@ -70,7 +70,7 @@ UserInput_DataFileEntry = "example_testsample1.docx"
 UserInput_QuartoTblGrphcsKey = input("User please input the Quarto Table Graphics Key here (ex: tbl (The standard prefix used by quarto), tab (custom prefix), stab (custom prefix)): ")
 
 #DataFileEntry = "ExtractContent.docx"
-#DataFileEntry = "8th Ed(07052026)-Manuscript of Efficient Recognition of Large-Wavelength Moiré Superlattices in Hexagonal Boron Nitride Homojunction.docx"
+
 
 
 DataFileNameModificiation = UserInput_DataFileEntry.replace(".docx","")
